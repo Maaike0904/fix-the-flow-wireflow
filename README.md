@@ -4,12 +4,13 @@
 <!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
 
 ## Gebruiker
-<!-- Het is duidelijk wie de gebruiker is -->
+De gebruikers zijn ouders, met kinderen (baby) van 4 maanden en/of 1 jaar oud.
 
 ## User Story
-De opdrachtgevers willen graag de gebruiker kunnen laten kiezen over welke allergenen ze aanklikken. Hierin moet dus verschil zitten in icoontjes en inhoud die de gebruiker kiest. 
+Het filteren op allergenen is één onderdeel van de website
 
-Mijn user story is: "Als gebruiker van de Vini Mini persoonlijke omgeving wil ik kunnen filteren op verschillende allergenen om zo de planning gericht te bekijken."
+Mijn user story is: 
+"Als gebruiker van de Vini Mini persoonlijke omgeving wil ik kunnen filteren op verschillende allergenen om zo de planning gericht te bekijken."
 
 ## Wireflow
 <!-- Toon de wireflow -->
