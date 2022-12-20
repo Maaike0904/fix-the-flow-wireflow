@@ -13,8 +13,9 @@ Mijn user story is:
 "Als gebruiker van de Vini Mini persoonlijke omgeving wil ik kunnen filteren op verschillende allergenen om zo de planning gericht te bekijken."
 
 ## Wireflow 🤸
-<!-- Toon de wireflow -->
+### Mijn eerste idee
 
+### Na de les van Krijn
  
 
 ## Licentie 💯
