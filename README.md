@@ -1,6 +1,6 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# Vini Mini - filteren op allergeen 🥜🥚🌰
 <!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
 
 ## Gebruiker
