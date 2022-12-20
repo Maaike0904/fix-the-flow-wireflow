@@ -7,7 +7,9 @@
 <!-- Het is duidelijk wie de gebruiker is -->
 
 ## User Story
-<!-- Er is een User Story geschreven van de interactie -->
+De opdrachtgevers willen graag de gebruiker kunnen laten kiezen over welke allergenen ze aanklikken. Hierin moet dus verschil zitten in icoontjes en inhoud die de gebruiker kiest. 
+
+Mijn user story is: "Als gebruiker van de Vini Mini persoonlijke omgeving wil ik kunnen filteren op verschillende allergenen om zo de planning gericht te bekijken."
 
 ## Wireflow
 <!-- Toon de wireflow -->
