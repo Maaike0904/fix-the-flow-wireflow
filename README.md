@@ -18,7 +18,7 @@ Mijn user story is:
 ### Na de les van Krijn
  
 
-:globe: Bekijk hier de gerealiseerde pop-up: http://maaike0904-fix-the-flow-wireflow.student.fdnd.nl/
+🌐 Bekijk hier de gerealiseerde pop-up: http://maaike0904-fix-the-flow-wireflow.student.fdnd.nl/
 
 ## Licentie 💯
 
