@@ -1,26 +1,25 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+> _Fork_ deze leertaak en ga aan de slag. 
+Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
+De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Vini Mini - filteren op allergeen 🥜🥚🌰
-<!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
+# Titel
+Vini Mini dagboek
 
-## Gebruiker 👨‍👨‍👧‍👦
-De gebruikers zijn ouders, met kinderen (baby) van 4 maanden en/of 1 jaar oud.
+## Beschrijving
+De user story:
+"Als ouder wil ik bij het openen van Mijn Vini Mini persoonlijk advies behorende bij de betreffende dag kunnen lezen, zodat de kans op een allergische reactie bij mijn kind kleiner wordt".
+<br><img width="1438" alt="Schermafbeelding 2022-12-06 om 14 45 01" src="https://user-images.githubusercontent.com/112861144/205928707-4c4b92f8-d058-4fc5-93cd-c1a3cfaf1c86.png">
 
-## User Story 📖
-Het filteren op allergenen is één onderdeel van de website
 
-Mijn user story is: 
-"Als gebruiker van de Vini Mini persoonlijke omgeving wil ik kunnen filteren op verschillende allergenen om zo de planning gericht te bekijken."
 
-## Wireflow 🤸
-### Mijn eerste idee
+## Kenmerken
+Deze opdracht is gemaakt met:
+- HTML
+- CSS
 
-### Na de les van Krijn
- 
+## Bronnen
 
-🌐 Bekijk hier de gerealiseerde pop-up: http://maaike0904-fix-the-flow-wireflow.student.fdnd.nl/
-
-## Licentie 💯
+## Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 

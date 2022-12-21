@@ -1,91 +1,44 @@
-
-# Fix the Flow - Wireflow
-
-Opdracht: Schets de User flow in een Wireflow
+# Corporate identity
+Ontwerp en maak voor een opdrachtgever een component of website op basis van een bestaande huisstijl 
 
 ## Context
+Deze leertaak hoort bij sprint 4 Look and Feel. Dit is een opdracht die je individueel uitvoert voor een opdrachtgever.
 
-Deze leertaak hoort bij sprint 5 "Fix the Flow". Dit is een deeltaak die je individueel uitvoert.
+Bij deze leertaak horen de volgende deeltaken:
 
-In de workshop _S05W1-02-Userflow-Wireflows_ wordt behandeld wat een Wireflow is en hoe je een goede Wirelfow tekent. 
-
-Deze deeltaak hoort de leertaak:
-- [fix-the-flow-interactive-website](https://github.com/fdnd-task/fix-the-flow-interactive-website) 
+* [living styleguide](https://github.com/fdnd-task/look-and-feel-living-styleguide)
+* [custom properties](https://github.com/fdnd-task/look-and-feel-custom-properties)
 
 ## Doel van deze opdracht
-
-Je leert hoe je de User Flow kan tekenen in een Wireflow.
-
+Je leert hoe onderdelen van een website op basis van een bestaande huisstijl maakt.
 
 ## Werkwijze
+Bij elke leertaak wordt de development-lifecycle doorlopen. Hierdoor ontwikkel je een standaard aanpak voor frontend praktijkvraagstukken, werk je systematisch aan leertaken, ervaar je de relevantie van het geleerde en verwerf je de kennis, houding en vaardigheden die de beroepspraktijk van je vraagt. De development lifecycle bestaat uit de stappen: Analyseren, Ontwerpen, Bouwen, Integreren en Testen.
 
-<img width="1251" alt="image" src="https://user-images.githubusercontent.com/1391509/205519942-33db706c-cce8-43c7-bf59-95bdecf8bbbc.png">
-
-
-Deze opdracht gaat over de [analyse](#analyseren), [ontwerp](#ontwerpen) en [test](#testen) fase van de DLC.
-
-### Analyseren
-
-Voordat je een Wireflow gaat tekenen moet je goed beschrijven wie de gebruiker is en wat de doelen van de gebruiker zijn. Daarna kun je met een _User Story_ de interactie beschrijven die je wil ontwerpen. 
-
-#### Aanpak
-
-1. Schrijf eerst wie de gebruiker is van jouw opdracht en wat de gebruiker wil bereiken, wat is de _User Goal_?
-2. Schrijf een _User Story_ van de belangrijkste interactie: `Als <gebruiker> wil ik <functionaliteit> zodat <meerwaarde>`
-
-#### Materiaal
-
-- [How User Scenarios  Help to Improve Your UX](http://blog.usabilla.com/how-user-scenarios-help-to-improve-your-ux/)
-- [Wat is een User Story?](https://agilescrumgroup.nl/wat-is-een-user-story/)
-
-
-### Ontwerpen
-
-Teken een Wireflow die alle mogelijke output, de belangrijkste userflow  en de interactie duidelijk maakt. Een Wireflow toont opeenvolgende wireframes die verschillende states/schermen tonen, op basis van de interactie.
-
-Hieronder staat een  voorbeeld van een Wireflow met de _User Story_ `Als bezoeker wil ik een verhaal kunnen terugvinden door op een woord uit de titel te zoeken`
-    
-![image](https://user-images.githubusercontent.com/1391509/146001069-76346dd9-d579-421d-9bc4-79b5380b7637.png)
-
-#### Aanpak
-
-1. Schets alle mogelijke output (states en/of schermen) die een gebruiker te zien krijgt
-2. Geef met een andere kleur de interactie aan. Op welke elementen klikt een gebruiker? Scrollen of draggen?
-3. Geef met pijlen de _User Flow_ aan
-4. Geef elke state een nummer en titel
-5. Schrijf onder elke state wat een gebruiker doet en wat de interface moet laten zien
-
-#### Materiaal
-
-- [Wireframing User Flow with Wireflows](https://balsamiq.com/learn/articles/wireflows/)
-
-
-### Testen
-
-Met een Wireflow laat je zien hoe een interactie op een website eruit komt te zien. Een Wireflow is voor jezelf, maar ook voor je team waar je mee samen werkt of om een product owner te laten zien hoe een interactie moet gaan werken. Andere mensen moeten je schets kunnen begrijpen. Het is belangrijk dat je netjes schetst, goede labels gebruikt en passende teksten schrijft. 
-    
-#### Aanpak
-
-1. Laat de wireflow aan een klasgenoot zien en spreek de interactie door. 
-2. Is de schets duidelijk voor een collega designer en developer? Schrijf op- of aanmerkingen bij je schets.
-3. Verwerk de feedback als dat nodig is.
-
+### Aanpak
+1. Kies een user story uit de backlog van het project waar je aan gaat werken. De projecten staan bij [FDND Agency](https://github.com/fdnd-agency).  
+2. Fork deze leertaak
+3. Kopieer/plak de user story waar jij aan gaat werken naar de Wiki van de geforkte repository, dit ga je ontwerpen en maken
+4. Documenteer je proces a.h.v de development life cycle
+5. En schrijf een goede readme
 
 ## Criteria
 
+De focus van deze sprint ligt op het toepassen van een huisstijl en het maken van formulieren.
 
-Focus sprint 5 - De focus van deze sprint ligt op interactie en informatie architectuur van een website.
+Voor deze leertaak gelden de gedragscriteria voor sprint 4: 
 
-Voor deze deeltaak geldt het gedragscriterium:
+* ~~Samenwerken: Draagt verantwoording voor eigen resultaten en verwerkt ontvangen feedback~~
+* Communiceren: Luistert naar wat een ander zegt en neemt dit serieus
+* Probleemoplossend vermogen: Analyseert een vraag en volgt de aangeboden oplossingsrichting
+* Probleemoplossend vermogen: Gebruikt aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren
+* ~~Lerend vermogen: Toont beginnend inzicht in eigen capaciteiten en beperkingen en kan deze benoemen~~
 
-Probleemoplossend vermogen: Student schetst om gedachten en processen te verkennen.
+Deze opdracht is done als:
+- [ ] de door jou gemaakte onderdelen onderbouwd en aantoonbaar voldoen aan de huisstijl van de opdrachtgever
+- [ ] je hebt gewerkt volgens de verschillende fases van de development-lifecycle
+- [ ] je hebt je werk gedocumenteerd in de Readme en Wiki (user story, ontwerpbeslissingen, schetsen en code voorbeelden)
+- [ ] de website op Github staat en een live url heeft
 
 
-De Wireflow opdracht is *done* als
 
-- [ ] Het is duidelijk wie de gebruiker is 
-- [ ] Er is een _User Story_ geschreven van de interactie
-- [ ] Er is een Wireflow getekend met alle mogelijke output (states en/of schermen)
-- [ ] Alle states hebben een nummer, titel en beschrijving
-- [ ] De _User Flow_ en de interactie zijn goed weergegeven
-- [ ] De opdracht is gedocumenteerd in de Readme van de deeltaak
