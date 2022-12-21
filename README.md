@@ -16,7 +16,7 @@ Mijn user story is:
 ### Schetsen
 ![WhatsApp Image 2022-12-21 at 16 46 07 (1)](https://user-images.githubusercontent.com/112861144/208945782-f527857b-ec9c-4be1-8fe9-afd491b626bd.jpeg)
 
-🌐 Bekijk hier de gerealiseerde pop-up: http://maaike0904-fix-the-flow-wireflow.student.fdnd.nl/
+🌐 Bekijk hier de gerealiseerde pop-up: https://maaike0904-fix-the-flow-wireflow.student.fdnd.nl/
 
 ## Licentie 💯
 
