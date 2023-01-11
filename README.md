@@ -4,7 +4,7 @@
 <!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
 
 ## Gebruiker 👨‍👨‍👧‍👦
-De gebruikers zijn ouders, met een kind (of meerdere) van 4 maanden en/of 1 jaar oud.
+De gebruikers zijn ouders, met een kind (of meerdere) die meer risico bevatten op het krijgen van een allergie.
 
 ## User Story 📖
 Het filteren op allergenen is één onderdeel van de website
